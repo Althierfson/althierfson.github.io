@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f15077fadeb738e0cfe206375add7ef9",
+  "assets/AssetManifest.json": "f147e3ae45442315be86520f5a0be347",
 "assets/assets/habilidades/CleanArchitecture.jpg": "07b2e4403c83a8b377ad14ab3589044c",
 "assets/assets/habilidades/dart.png": "31976ff22bb0bd0ce18da966097ac742",
 "assets/assets/habilidades/flutter.png": "85e5af196c6ef4824f5c76e969194a95",
@@ -13,11 +13,18 @@ const RESOURCES = {
 "assets/assets/imagens/capa_phone.png": "138d91ba234899f50c99fec5f5c69289",
 "assets/assets/imagens/fundo_header.png": "ba4c6b74deed4422eac026d310846520",
 "assets/assets/imagens/github.png": "37ff29981d40f08a882e94b94d89e874",
+"assets/assets/imagens/google_play.png": "8412cc2c8fb288c9c3cb9063e2e2aa11",
 "assets/assets/imagens/Instagram.png": "53acdc05b7e66f521de8301841f1d930",
 "assets/assets/imagens/linkedin.png": "a94551a792d6f3fb958b78e299b6e1dd",
 "assets/assets/imagens/perfil_1.png": "fccbf8feb297a8300878aa5e63255b9c",
 "assets/assets/imagens/perfil_2.png": "11565cf62f08b9240bea6e4f3976ef87",
 "assets/assets/outros_projetos/TechSocia.webp": "baf7f47e952ecf6f2ca963b0d8606ce4",
+"assets/assets/projetosTI/aVistaOuAPrazo/capa.png": "3ee63cad785b50d790c1348f6a977cba",
+"assets/assets/projetosTI/aVistaOuAPrazo/Screenshot_1.jpg": "d23eac3fd6a14855eac640610d1e9755",
+"assets/assets/projetosTI/aVistaOuAPrazo/Screenshot_2.jpg": "add9a9af4d5572932c70c03dacaf3209",
+"assets/assets/projetosTI/aVistaOuAPrazo/Screenshot_3.jpg": "bfc3f58e8a22b6c9a8e683b261393764",
+"assets/assets/projetosTI/aVistaOuAPrazo/Screenshot_4.jpg": "edc5a12504c65222265dcf1816f0865b",
+"assets/assets/projetosTI/aVistaOuAPrazo/Screenshot_5.jpg": "0005b4d356748b0d5c894de80738d574",
 "assets/assets/projetosTI/banco_de_talentos/miniatura.jpg": "00b8d36f305c2313da790d164e798bca",
 "assets/assets/projetosTI/banco_de_talentos/Screenshot_1.jpg": "11901648083ccacaaed8fd2e411a0ad9",
 "assets/assets/projetosTI/banco_de_talentos/Screenshot_2.jpg": "f8d9be600d7d1a3563969c5a44c752ac",
@@ -52,9 +59,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2f35aa683a6c7839ab6f81c452e132e1",
-"/": "2f35aa683a6c7839ab6f81c452e132e1",
-"main.dart.js": "fa91ba9ba0fdea80e6ea4676dca3a381",
+"index.html": "abc7ddab58b0377820de0b94cf7f17dc",
+"/": "abc7ddab58b0377820de0b94cf7f17dc",
+"main.dart.js": "c2cc9e7d5b75b27338bd6185e4aaf0d6",
 "manifest.json": "7090bb9a382a3f7b50bbf0fff9eba248",
 "version.json": "ef919b19283904105c8871ae946c29a2"
 };
