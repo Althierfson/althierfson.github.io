@@ -54,7 +54,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "e6643edc2b85020ba022ccec34656eda
 "assets/assets/projetosTI/minesweeper/screenshoot_4.png": "f13e9ba4a4b4f7143a2e0e4034186472",
 "assets/assets/projetosTI/minesweeper/screenshoot_5.png": "a2aca9ccee443c410e43474859160291",
 "assets/assets/projetosTI/pje2x_mobile/capa.png": "53f136aa03ea8e149eac39f3b281201b",
-"assets/assets/projetosTI/pje2x_mobile/miniatura.png": "23822f6971d74d8276e7a012b6d42fb1",
 "assets/assets/projetosTI/pje2x_mobile/pje_1.jpg": "a37a527c71213bc395fc61c2d1198110",
 "assets/assets/projetosTI/pje2x_mobile/pje_2.jpg": "b8b3d667a07a38ea48580fc23b878017",
 "assets/assets/projetosTI/pje2x_mobile/pje_3.jpg": "238fcd4ceadd26c9496648e8a7cd80ad",
@@ -92,9 +91,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "e6643edc2b85020ba022ccec34656eda
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "992a12670214c86e5c3c98c5f0c99d97",
-"/": "992a12670214c86e5c3c98c5f0c99d97",
-"main.dart.js": "e455fcfe68eb618a97300dc6c7870365",
+"index.html": "947d3a47b06b675f6320b08eb8a1f830",
+"/": "947d3a47b06b675f6320b08eb8a1f830",
+"main.dart.js": "ba6c67720bdff90753be779a1f09be7d",
 "manifest.json": "0a0b0aea551233a73b1d3fda5db0ff74",
 "version.json": "ef919b19283904105c8871ae946c29a2"};
 // The application shell files that are downloaded before a service worker can

@@ -65569,7 +65569,7 @@ else return this.I1(B.GK)},
 I1(a){var s=null,r=t.D
 return A.ce(s,A.dx(A.a([A.cj("Contato",A.iy().$2$fontSize$fontWeight(40,B.a9),s),B.bC,A.fi(A.a([A.dx(A.a([B.L9,B.L8,B.eA,A.nW(s,A.o1("assets/imagens/linkedin.png",s,50),B.ao,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.Ro(),s,s,s)],r),B.G,B.T)],r),B.G,B.av,B.ae)],r),B.G,B.av),s,s,s,s,s,s,B.b_,s)}}
 A.Ro.prototype={
-$0(){A.Pg(A.h4("www.linkedin.com/in/althierfson",0,null))},
+$0(){A.Pg(A.h4("https://www.linkedin.com/in/althierfson/",0,null))},
 $S:0}
 A.Cx.prototype={
 L(a){var s=null
